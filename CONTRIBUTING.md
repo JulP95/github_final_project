@@ -1,1 +1,1 @@
-Alle Beiträge, Fehlerberichte, Fehlerbehebungen, Verbesserungen der Dokumentation, Erweiterungen und Ideen sind willkommen.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
